@@ -1,0 +1,7 @@
+body {
+    background-image: linear-gradient(to right, violet, purple);
+}
+img {
+    width: 100px;
+    height:100px;
+}
